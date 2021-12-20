@@ -1,0 +1,6 @@
+{
+	"appId": "com.reservir",
+	"appName": "reservir",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
