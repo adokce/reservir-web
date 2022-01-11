@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <h1 class="text-3xl font-bold underline"> Hello reservir! </h1>;
+      <h1 class="text-3xl font-bold underline"> Hello reservir! </h1>
       <div>
         <h1>Geolocation</h1>
         <p>Your location is:</p>
